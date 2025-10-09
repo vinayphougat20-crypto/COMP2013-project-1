@@ -2,6 +2,6 @@
 
 ## Groceries App V1
 
-This project entails building a simple yet functional grocery shopping app, utilizing most of the core programming concepts covered. As part of the task, students will create an interactive app where users can select grocery items from an inventory, view their cart contents, and check out.
+This project involves building a simple yet functional grocery shopping app that utilizes most of the core programming concepts covered. As part of the task, students will create an interactive app that allows users to select grocery items from an inventory, view their cart contents, and check out.
 
-Due Oct. 29th, 2024 @ 11:59 p.m.
+Due Oct. 17th, 2025 @ 11:59 p.m.
